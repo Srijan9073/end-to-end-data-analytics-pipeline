@@ -24,19 +24,3 @@ An end-to-end data analytics personal project executing the complete data lifecy
 - **Documentation:** Markdown Data Dictionaries, Executive Presentation
 
 ---
-
-## 📂 Repository Structure
-
-```text
-├── phase-1-data-wrangling/
-│   ├── data_dictionary.md           # Field definitions, data types, and business context
-│   └── data_cleaning_pipeline.py    # Automated cleaning script
-├── phase-2-sql-exploratory-analysis/
-│   └── business_analysis_queries.sql # Core SQL queries answering business questions
-├── phase-3-bi-dashboard/
-│   ├── kpi_definitions.md           # Business formulas and KPI definitions
-│   └── sales_dashboard.pbix         # Power BI report file (or exported PDF)
-├── phase-4-statistical-testing/
-│   └── hypothesis_validation.py     # Statistical testing scripts and p-value evaluations
-└── phase-5-executive-deck/
-    └── executive_presentation.pdf   # Final presentation deck
